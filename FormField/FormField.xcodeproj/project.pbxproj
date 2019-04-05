@@ -58,8 +58,8 @@
 		62031877225787F200E449B4 /* FormField */ = {
 			isa = PBXGroup;
 			children = (
-				62031878225787F200E449B4 /* FormField.h */,
 				62031879225787F200E449B4 /* Info.plist */,
+				62031878225787F200E449B4 /* FormField.h */,
 				620318882257882C00E449B4 /* Validations.swift */,
 				620318892257882C00E449B4 /* ValidationError.swift */,
 				620318812257881A00E449B4 /* FormField.swift */,
